@@ -1,0 +1,79 @@
+.main-body {
+  padding-top: 20px;
+  margin: 0 auto;
+  width: 1700px;
+  mat-form-field {
+    width: 100%;
+  }
+}
+
+.action {
+  display: flex;
+  gap: 5px;
+}
+
+.filter-field {
+  width: 100px;
+}
+
+mat-icon-button {
+  background-color: transparent;
+  color: #555;
+  margin-left: -4px;
+}
+
+.mat-toolbar {
+  background-color: #2196f3;
+}
+
+.app-title {
+  color: white;
+}
+
+.add-employee-btn {
+  background-color: #4caf50;
+  color: white;
+}
+
+.table-container {
+  margin-top: 16px;
+}
+
+mat-table {
+  width: 100%;
+}
+
+mat-paginator {
+  margin-top: 16px;
+}
+
+.search {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.add-employee-btn {
+  margin-right: 16px;
+}
+
+.filter-field {
+  display: flex;
+  align-items: center;
+  margin-bottom: 16px;
+  width: 200px;
+}
+
+mat-form-field {
+  margin-right: 16px;
+}
+
+input {
+  width: 100px;
+  color: black;
+}
+
+mat-icon-button {
+  background-color: transparent;
+  color: black;
+}
